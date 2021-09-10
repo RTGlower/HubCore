@@ -1,0 +1,2 @@
+# HubCore
+HubCore Plugin
